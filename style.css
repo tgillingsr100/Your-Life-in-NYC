@@ -157,6 +157,8 @@ body {
 .brooklyn {
 	background-color:black ;
 	color: whitesmoke;
+  text-align: center;
+  
 
 .brooklyn h1 {
   font-family: "Fontdiner Swanky", cursive;
@@ -203,4 +205,10 @@ body {
 
 .queens a {
 	color: #FFEB3B
+}
+
+body.brooklyn h1 {
+  color: orange !important;
+  font-family: Impact, fantasy !important;
+  font-size: 60px !important;
 }
