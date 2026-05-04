@@ -1,0 +1,206 @@
+body {
+	background-color: #f88080;
+}
+#container {
+	margin: 0 auto;
+	width: 720px;
+}
+
+.menu {
+  margin-top: 25px;
+}
+
+.choice {
+  display: block;
+  padding: 15px;
+  margin: 15px 0;
+  border: 3px solid black;
+  border-radius: 12px;
+  color: black;
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: white;
+  box-shadow: 5px 5px 0 black;
+}
+
+.choice span {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.choice:hover {
+  transform: translateY(-4px);
+  box-shadow: 8px 8px 0 black;
+}
+
+.bronx-btn {
+  background-color: #14532d;
+  color: #d1fae5;
+}
+
+.brooklyn-btn {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.queens-btn {
+  background-color: #607D8B;
+  color: #FFEB3B;
+}
+
+.manhattan-btn {
+  background-color: #0038A8;
+  color: #F58426;
+}
+
+.staten-btn {
+  background-color: #f8d780;
+  color: black;
+}
+
+.staten {
+  background-color: #f8d780;
+  color: black;
+   text-align: center;
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.staten h1 {
+  font-size: 40px;
+  color: #7f1d1d; /* dark red */
+  text-shadow: 2px 2px 0 black;
+}
+
+.staten strong {
+  color: #7f1d1d;
+}
+
+.staten p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+.staten a {
+  color: #7f1d1d;
+  text-decoration: underline;
+}
+
+.staten a:hover {
+  color: black;
+}
+
+.staten {
+  border: 5px solid black;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.bronx {
+  background-color: #14532d; 
+  color: #8b8b8b; 
+  text-align: center;
+}
+.bronx h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 45px;
+  color: #22c55e;
+  text-shadow: 
+  	3px 3px black;
+}
+.bronx p {
+  color: #d1fae5;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.bronx strong {
+  color: white;
+}
+
+.manhattan {
+  background-color: #0038A8; /* Knicks blue */
+  color: #F58426; /* Knicks orange */
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.manhattan h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  color: #F58426;
+  text-shadow: 
+    3px 3px 0 black,
+    6px 6px 0 #1d4ed8; /* deeper blue shadow */
+}
+
+.manhattan p {
+  color: #FFD8A8; /* softer orange for readability */
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.manhattan strong {
+  color: #F58426;
+}
+
+.manhattan a {
+  color: white;
+  text-decoration: none;
+  border-bottom: 2px solid #F58426;
+}
+
+.manhattan a:hover {
+  color: #F58426;
+}
+
+.brooklyn {
+	background-color:black ;
+	color: whitesmoke;
+
+.brooklyn h1 {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 45px;
+  color: whitesmoke;
+  text-shadow: 
+    3px 3px 0 black,
+    6px 6px 0 #1e3a8a;
+}
+.brooklyn {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.brooklyn p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.queens {
+	background-color: #607D8B;
+  color: #FFEB3B;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.queens h1 {
+	font-family: 'Cinzel', serif;
+  font-size: 45px;
+  color: #FFEB3B ;
+  text-shadow: 
+  3px 3px 0 black, 
+  6px 6px 0 black;
+}
+
+.queens p {
+	color: #FFF176;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.queens strong {
+	color: #FFEB3B;
+}
+
+.queens a {
+	color: #FFEB3B
+}
