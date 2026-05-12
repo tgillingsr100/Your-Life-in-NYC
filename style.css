@@ -1,6 +1,12 @@
 body {
 	background-color: #f88080;
 }
+
+h1 { font-family: "Rubik Spray Paint", system-ui;
+  font-size: 50px
+  font-weight: normal;
+}
+
 .container {
 	margin: 0 auto;
 	width: 720px;
