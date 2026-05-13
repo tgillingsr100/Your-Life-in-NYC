@@ -1,0 +1,202 @@
+body {
+	background-color: #f88080;
+}
+
+h1 { font-family: "Rubik Spray Paint", system-ui;
+  font-size: 50px
+  font-weight: normal;
+}
+
+.container {
+	margin: 0 auto;
+	width: 720px;
+}
+
+.menu {
+  margin-top: 25px;
+}
+
+
+
+.brooklyn h1 {
+    font-family: Impact, fantasy;
+    font-size: 60px;
+    color: orange;
+    text-shadow: 
+    3px 3px 0 blue, 
+    6px 6px 0 black;
+  }
+
+.queens {
+  background-color: #607D8B;
+  color: #FFEB3B;}
+
+.manhattan {
+  background-color: #0038A8;
+  color: #F58426;
+}
+
+
+.staten {
+  background-color: #f8d780;
+  color: black;
+   text-align: center;
+  font-family: Georgia, Helvetica, serif;
+}
+
+.staten h1 {
+  font-size: 40px;
+  color: #7f1d1d; /* dark red */
+  text-shadow: 2px 2px 0 black;
+}
+
+.staten strong {
+  color: #7f1d1d;
+}
+
+.staten p {
+  font-size: 18px;
+}
+
+.staten a {
+  color: #7f1d1d;
+  text-decoration: underline;
+}
+
+.staten a:hover {
+  color: black;
+}
+
+.staten {
+  border: 5px solid black;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.bronx {
+  background-color: #14532d; 
+  color: #8b8b8b; 
+  text-align: center;
+}
+
+.bronx h1 {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 45px;
+  color: #22c55e;
+  text-shadow: 
+  	3px 3px black;
+}
+
+.bronx p {
+  color: #d1fae5;
+  font-size: 18px;
+}
+
+.bronx strong {
+  color: white;
+}
+
+.bronx {
+  border: 5px solid black;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.manhattan {
+  background-color: #0038A8; 
+  color: #F58426; 
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.manhattan h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 48px;
+  color: #F58426;
+  text-shadow: 
+    3px 3px 0 black,
+    6px 6px 0 #1d4ed8; 
+}
+
+.manhattan p {
+  color: #FFD8A8; 
+  font-size: 18px}
+
+.manhattan strong {
+  color: #F58426;
+}
+
+.manhattan a:hover {
+  color: #F58426;
+}
+
+.manhattan {
+  border: 5px solid black;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.brooklyn {
+	background-color:black ;
+	color: whitesmoke;
+  text-align: center;
+  font-family: arial, Helvetica, sans-serif;
+}
+  
+.brooklyn {
+  border: 5px whitesmoke;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.brooklyn h1 {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 45px;
+  color: whitesmoke;
+  text-shadow: 
+    3px 3px 0 black,
+    6px 6px 0 #1e3a8a;}
+
+.brooklyn p {
+  font-size: 18px;}
+
+.queens {
+	background-color: #607D8B;
+  color: #FFEB3B;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.queens h1 {
+	font-family: 'Cinzel', serif;
+  font-size: 60px;
+  color: #af0000 ;
+  text-shadow: 
+  3px 3px 0 black, 
+  6px 6px 0 black;
+}
+
+.queens p {
+	color: #FFF176;
+  font-size: 18px;
+}
+
+.queens strong {
+	color: #FFEB3B;
+}
+
+.queens a {
+	color: #FFEB3B
+}
+
+.queens {
+  border: 5px solid black;
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 20px;
+}
